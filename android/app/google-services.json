@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920131772306",
+    "project_id": "audio-similarity",
+    "storage_bucket": "audio-similarity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920131772306:android:716afee672168c4aa46b4b",
+        "android_client_info": {
+          "package_name": "com.example.audio_similarity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM1f2NG3XZHHFaZ3DalzX08qtiosABUpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
